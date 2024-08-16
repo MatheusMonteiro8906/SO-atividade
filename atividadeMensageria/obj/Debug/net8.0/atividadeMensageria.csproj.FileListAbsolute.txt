@@ -1,0 +1,14 @@
+C:\Users\Zero\Documents\projetos\SO-atividade\atividadeMensageria\bin\Debug\net8.0\atividadeMensageria.exe
+C:\Users\Zero\Documents\projetos\SO-atividade\atividadeMensageria\bin\Debug\net8.0\atividadeMensageria.deps.json
+C:\Users\Zero\Documents\projetos\SO-atividade\atividadeMensageria\bin\Debug\net8.0\atividadeMensageria.runtimeconfig.json
+C:\Users\Zero\Documents\projetos\SO-atividade\atividadeMensageria\bin\Debug\net8.0\atividadeMensageria.dll
+C:\Users\Zero\Documents\projetos\SO-atividade\atividadeMensageria\bin\Debug\net8.0\atividadeMensageria.pdb
+C:\Users\Zero\Documents\projetos\SO-atividade\atividadeMensageria\obj\Debug\net8.0\atividadeMensageria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zero\Documents\projetos\SO-atividade\atividadeMensageria\obj\Debug\net8.0\atividadeMensageria.AssemblyInfoInputs.cache
+C:\Users\Zero\Documents\projetos\SO-atividade\atividadeMensageria\obj\Debug\net8.0\atividadeMensageria.AssemblyInfo.cs
+C:\Users\Zero\Documents\projetos\SO-atividade\atividadeMensageria\obj\Debug\net8.0\atividadeMensageria.csproj.CoreCompileInputs.cache
+C:\Users\Zero\Documents\projetos\SO-atividade\atividadeMensageria\obj\Debug\net8.0\atividadeMensageria.dll
+C:\Users\Zero\Documents\projetos\SO-atividade\atividadeMensageria\obj\Debug\net8.0\refint\atividadeMensageria.dll
+C:\Users\Zero\Documents\projetos\SO-atividade\atividadeMensageria\obj\Debug\net8.0\atividadeMensageria.pdb
+C:\Users\Zero\Documents\projetos\SO-atividade\atividadeMensageria\obj\Debug\net8.0\atividadeMensageria.genruntimeconfig.cache
+C:\Users\Zero\Documents\projetos\SO-atividade\atividadeMensageria\obj\Debug\net8.0\ref\atividadeMensageria.dll
